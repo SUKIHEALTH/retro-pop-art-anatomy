@@ -51,4 +51,9 @@ By using art to represent the body, this project invites warmth, curiosity, and 
 
    pip install -r requirements.txt
 
+```ini
+OPENAI_API_KEY=your-api-key-here
+
+```bash
+python app.py
 
